@@ -5,6 +5,8 @@ This code provides a comprehensive workflow for generating standardized electric
 
 Important note: Before running this code, users must set up a virtual environment to ensure all dependencies are properly installed. This is done by creating a virtual environment and installing the necessary libraries listed in the environment.yml file. This environment isolates the required packages and ensures that the code runs consistently without conflicts from other system libraries.
 
+You can refer to the related research publication for more context and background on this code. The publication is available at: https://doi.org/10.1016/j.scs.2024.105967.
+
 Example of some of the plots that can be created are presented here:
 
 ### Plot minimum, maximum and mean electricitiy energy demand in a 24 hours period of a day in Winter, Spring, Summer and Autumn
