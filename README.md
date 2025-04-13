@@ -1,7 +1,11 @@
 # SoGuR
 GIS Data-driven analysis of hourly resoluted load profiles of residential buildings
 
-The code is designed to facilitate the development of standardized electricity load profiles for Urban Energy Units (UEUs) in Oldenburg by integrating data from resLoadSIM simulations. It enables users to download and preprocess essential datasets, including UEU electricity load profiles and corresponding time periods. With a robust set of functionalities, the code can normalize electricity consumption data, classify UEUs into different groups, and arrange the data into user-friendly formats with secure indexing. It supports flexible resampling of energy data (daily, weekly, and monthly) and provides visual analysis tools for examining seasonal variations, daily profiles, and yearly demand patterns. Additionally, the code offers descriptive statistics, correlation matrices, and data filtering options, all of which contribute to creating comprehensive and reliable load profiles that can inform urban energy planning and decision-making.
+This code provides a comprehensive workflow for generating standardized electricity load profiles for Urban Energy Units (UEUs) in Oldenburg. It relies on data simulated with resLoadSIM, a tool that models electrical energy demand for buildings and urban areas, producing detailed time-series consumption profiles. The code can download, preprocess, and normalize these datasets, classify UEUs into different categories, and organize the data into structured formats. Users can also analyze seasonal patterns, daily variations, and yearly demand trends through a variety of visualization and resampling tools. In addition, the code offers descriptive statistics and correlation analyses, making it easier to understand and refine the energy profiles.
+
+Important note: Before running this code, users must set up a virtual environment to ensure all dependencies are properly installed. This is done by creating a virtual environment and installing the necessary libraries listed in the environment.yml file. This environment isolates the required packages and ensures that the code runs consistently without conflicts from other system libraries.
+
+Example of some of the plots that can be created are presented here:
 
 ### Plot minimum, maximum and mean electricitiy energy demand in a 24 hours period of a day in Winter, Spring, Summer and Autumn
 
