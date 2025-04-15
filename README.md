@@ -74,7 +74,8 @@ For more context, see the related research publication:
 
 ## License
 
-MIT License
+MIT License [License](https://github.com/AlejoZabala/UrbEnProfile/blob/main/License)
+
 ## References
 
 - [Sustainable Cities and Society Journal](https://doi.org/10.1016/j.scs.2023.105075) – UEU concept reference
