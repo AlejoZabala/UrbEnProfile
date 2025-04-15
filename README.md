@@ -66,18 +66,17 @@ Contributions, issue reports, and feature requests are highly appreciated. Here�
 
 ## Authors & Acknowledgments
 
-- **Primary Developer:** [Your Name or Team]
-- **Collaborators:** [List any collaborators or institutions]
+- **Primary Developer:** Alejandro Zabala Figueroa
+- **Collaborators:**  DLR
 
 For more context, see the related research publication:  
 [**Link to publication**](https://doi.org/10.1016/j.scs.2024.105967)
 
 ## License
 
-(Choose an appropriate open-source license here, e.g., MIT or Apache 2.0)
-
+MIT License
 ## References
 
 - [Sustainable Cities and Society Journal](https://doi.org/10.1016/j.scs.2023.105075) – UEU concept reference
-- [resLoadSIM Documentation](#) – If there is a link to official docs
+- [resLoadSIM Documentation](#) – The software is provided on Demand by their Authors at the JRC.
 - [heatBrain Project](https://www.heatbrain.eu/)
