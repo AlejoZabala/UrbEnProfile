@@ -74,7 +74,7 @@ For more context, see the related research publication:
 
 ## License
 
-MIT License [License](https://github.com/AlejoZabala/UrbEnProfile/blob/main/License)
+MIT [License](https://github.com/AlejoZabala/UrbEnProfile/blob/main/License)
 
 ## References
 
