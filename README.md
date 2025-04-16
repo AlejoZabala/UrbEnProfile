@@ -19,7 +19,7 @@ UrbEnProfile is an open-source workflow for generating standardised electricity 
    conda env create -f environment.yml conda activate sogur-env
 *(Adjust commands as needed for your environment manager.)*
 
-## Usage and GIS representations
+## Usage and GIS figures
 
 1. Provide the UEU dataset (geopackage) as input.
 2. Run the main script/notebook that processes the data and merges it with resLoadSIM outputs.
