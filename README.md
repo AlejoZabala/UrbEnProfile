@@ -26,6 +26,14 @@ UrbEnProfile is an open-source workflow for generating standardised electricity 
 3. Generate visualizations using the built-in plotting functions to analyze patterns (e.g., daily, seasonal, annual).
    Note: By filtering specific buildings of the UEU dataset, it is see the load profile behaviour of specific georeferenced buildings.
 
+"An Urban Energy Unit (UEU) is a defined geographical area within an existing urban environment, characterized by a distinct set of building features, settlement patterns, and energy demands. Rather than outlining future energy districts, the UEU approach focuses on identifying and grouping these existing urban areas based on shared architectural and infrastructural traits. This allows for the flexible combination of UEUs to form larger, cohesive energy districts, each with its unique boundaries and resource requirements." This concept was developed by Luis Blanco and the participants in the paper [Sustainable Cities and Society Journal](https://doi.org/10.1016/j.scs.2023.105075).
+
+As an example, a city can be divided by areas belonging to one UEU as represented in the following image of the city of Oldenburg.
+![OL_UEUs](https://github.com/user-attachments/assets/e8ad66e0-a6a6-449c-91a1-752a61bb8916)
+
+Then it is also possible to identify which buildings are part of each UEU.
+![OL_UEUs_with_Buildings](https://github.com/user-attachments/assets/2a012aab-18c1-4aa4-834d-1b27a424d92b)
+
 ## Example Outputs
 
 Below are sample plots that illustrate how electricity demand can be visualized for different timescales and building clusters.
