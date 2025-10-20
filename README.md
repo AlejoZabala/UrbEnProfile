@@ -78,7 +78,7 @@ Contributions, issue reports, and feature requests are highly appreciated. Hereâ
 ## Authors & Acknowledgments
 
 - **Primary Developer:** Alejandro Zabala Figueroa
-- **Collaborators:**  DLR
+- **Developed at:**  Institute of Networked Energy Systems
 
 For more context, see the related research publication:  
 [**Link to publication**](https://doi.org/10.1016/j.scs.2024.105967)
